@@ -1,11 +1,3 @@
-# A Python-based Amazon price tracker that monitors a product's price 
-# and sends an email alert when the price falls below a specified threshold. 
-# This tool is perfect for snagging great deals and staying updated on price changes automatically.
-
-# The program currently works with Amazon's website, 
-# but due to frequent changes in Amazon's frontend structure, future compatibility may require adjustments.
-# Users can update the target product URL and modify the scraping logic as needed to ensure continued functionality
-
 import requests
 from bs4 import BeautifulSoup
 from smtplib import SMTP
