@@ -1,4 +1,4 @@
-# Python Projects Repository
+# Small Python Works
 
 This repository contains a collection of small Python projects showcasing diverse functionalities:
 
