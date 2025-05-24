@@ -1,0 +1,13 @@
+Project : [Password-Manager]
+This is a simple Password Manager built with Python and Tkinter, offering core features like adding, searching, deleting, and generating passwords. 
+It stores user credentials securely in a JSON file and includes a random password generator for creating strong passwords.
+With a clean GUI, it serves as a lightweight alternative to tools like Google Password Manager, ideal for managing passwords locally.
+
+Features I Added:
+1. if i try to <add> the website which is already exist on the passwordBook then ask-> to change the password or not
+2. if i <search> for the website and its exist then its password get copy on my clipboard
+3. resolves <JSONDecodeError> , the error comes when passwordBook exist but empty
+4. adding a delete button, to delete past saved passwords
+
+Limitations:
+1. we can't add password for the same website with 2 different emails.
