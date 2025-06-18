@@ -1,0 +1,19 @@
+Project : [Inventory Management System]
+
+This Inventory Management System is a Python-Tkinter desktop application for managing office expenses and store assets. Key features include:
+
+Office Module:
+ Tracks expenses with fields: date, item name, expense, description.
+ Supports add, update, delete, search, and clear functions.
+
+Store Module:
+ Manages assets with name, quantity, and description.
+ Includes CRUD and search functionalities.
+
+Database:
+ Uses `SQLite3` (`ims.db`) for local data storage.
+ `create_db.py` initializes required tables.
+
+UI:
+ Built with Tkinter and `ttk.Treeview` for record display.
+ Lightweight, offline, and user-friendly interface.
