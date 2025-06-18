@@ -14,4 +14,4 @@ This is a simple Password Manager built with Python and Tkinter, offering core f
 
 This Inventory Management System is a desktop application built using Python's Tkinter for the GUI and SQLite for database storage. It helps manage and track office expenses and store assets through two main modules. Users can add, update, delete, and search records with ease. The office module records date-wise expenses with descriptions, while the store module tracks available assets and their quantities. The interface is user-friendly, suitable for small businesses or teams needing local inventory tracking without a web server. The data is stored in ims.db, a local SQLite database, ensuring lightweight operation and offline usability.
 
-### For more info about each projects read : Project-Overview file
+### For more info about each projects read : Project-Overview file (inside corresponding project)
